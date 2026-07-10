@@ -16,3 +16,6 @@ TestResults/
 *.dll
 *.exe
 *.pdb
+
+# OS metadata
+.DS_Store
