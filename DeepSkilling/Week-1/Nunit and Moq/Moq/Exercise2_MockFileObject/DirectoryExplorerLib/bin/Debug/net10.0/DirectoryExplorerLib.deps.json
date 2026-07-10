@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DirectoryExplorerLib/1.0.0": {
+        "runtime": {
+          "DirectoryExplorerLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DirectoryExplorerLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
