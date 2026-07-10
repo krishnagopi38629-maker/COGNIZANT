@@ -12,7 +12,7 @@ TestResults/
 *.user
 *.suo
 
-# Build output
-*.exe
+# Build outputs
 *.dll
+*.exe
 *.pdb

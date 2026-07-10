@@ -1,8 +1,0 @@
-is_global = true
-build_property.RootNamespace = CalcLibrary
-build_property.ProjectDir = C:\Users\HP\OneDrive\Desktop\Cognizant\DotNet FSE\Deepskilling\Week-1\Nunit and Moq\Nunit\Exercise1_TestFixtureAndTest\CalcLibrary\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.CsWinRTUseWindowsUIXamlProjections = false
-build_property.EffectiveAnalysisLevelStyle = 
-build_property.EnableCodeStyleSeverity = 
